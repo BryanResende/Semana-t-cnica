@@ -1,2 +1,0 @@
-# Semana-t-cnica
-
