@@ -35,4 +35,3 @@
   } else {
     echo 'Error sending email.';
   }
-?>
