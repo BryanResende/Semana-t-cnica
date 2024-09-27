@@ -1,6 +1,6 @@
 <?php
   // Configuration
-  $to = 'teste@gmail.com'; // recipient email address
+  $to = 'bryanresende2020@gmail.com'; // recipient email address
   $subject = 'Contact Form Submission'; // email subject
 
   // Get the form data
