@@ -1294,7 +1294,7 @@ form button:hover{
     width: 100%;
 }
 .color-red{
-    background: rgb(25, 0, 255);
+    background: red;
 }
 .color-purple{
     background: #481380;
@@ -1303,7 +1303,7 @@ form button:hover{
     background: #04A777;
 }
 .color-blue{
-    background: #035aa6;
+   background: rgba(25, 0, 255);
 }
 .color-malt{
     background: #00909e;
